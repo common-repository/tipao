@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tipao 2.7.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-19 10:27-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Charvolin <stephane.charvolin@hotmail.fr>\n"
+"Language-Team: @commentluv, Gianni Diurno <admin@comluv.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Optionstipao.php:56
+msgid "R&eacute;glage des Param&egrave;tres de Connexion sur Tipao"
+msgstr "Tipao Connection Parameters"
+
+#: ../Optionstipao.php:57
+#, fuzzy
+msgid "Afin de pouvoir poster &eacute;galement votre article sur Tipao, vous devez renseigner les identifiants de connexion de votre Compte Tipao."
+msgstr "To be able to post also your article on Tipao, you have to inform the identifiers of connection of your Account Tipao."
+
+#: ../Optionstipao.php:66
+msgid "Identifiant ou adresse mail"
+msgstr "Identifier or e-mail address"
+
+#: ../Optionstipao.php:70
+msgid "Mot de passe"
+msgstr "Password"
+
+#: ../Optionstipao.php:72
+msgid "Votre ville par d&eacute;faut est :"
+msgstr "Your city by default is :"
+
+#: ../Optionstipao.php:76
+msgid "Poster automatiquement ?"
+msgstr "Post automatically ?"
+
+#: ../Optionstipao.php:116
+msgid "Remet les Options par defaut"
+msgstr "Options by default"
+
+#: ../Optionstipao.php:118
+msgid "Voulez vous remettre vos options par defaut? Appuyez sur OK pour continuer"
+msgstr "Want to recover your options by defaut? Click OK to continue"
+
+#: ../postontipao.php:133
+msgid "Connectez vous sur votre compte Tipao ici"
+msgstr "Connect you on your account Tipao here"
+
+#: ../postontipao.php:133
+msgid "Reglages &gt; Tipao"
+msgstr "Parameters"
+
+#: ../postontipao.php:139
+msgid "Bienvenue sur le Plugin de Tipao"
+msgstr "Welcome on the Tipao's Plugin"
+
+#: ../postontipao.php:150
+msgid "Poster"
+msgstr "Post"
+
+#~ msgid "Mettre &agrave; jour"
+#~ msgstr "Update"
+
+#~ msgid "Tipao"
+#~ msgstr "sboubi"
+
+#~ msgid "Options"
+#~ msgstr "Sboubi"
